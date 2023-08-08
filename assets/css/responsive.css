@@ -8,9 +8,10 @@
     /* ====================
         This is Hero Section
       =======================*/
-    /* #hero {
-      max-height: 100vh;
-    } */
+    #hero {
+      /* max-height: 100vh; */
+      min-height: 60vh;
+    }
   
     .hero-image {
       display: flex;
